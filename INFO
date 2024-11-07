@@ -1,10 +1,10 @@
 {
-    "name": "nyaa",
-    "displayname": "Nyaa",
+    "name": "sukebei",
+    "displayname": "Sukebei",
     "description": "A BitTorrent community focused on Eastern Asian media including anime, manga, music, and more",
     "version": "0.3",
-    "site": "https://nyaa.si/",
+    "site": "https://sukebei.nyaa.si/",
     "module": "search.php",
     "type": "search",
-    "class": "SynoDLMSearchNyaa"
+    "class": "SynoDLMSearchSukebei"
 }
