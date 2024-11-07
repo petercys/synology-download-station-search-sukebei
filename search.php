@@ -1,8 +1,8 @@
 <?php
 
-class SynoDLMSearchNyaa {
+class SynoDLMSearchSukebei {
     public function prepare($curl, $query) {
-        $url = "https://nyaa.si/" . "?" . http_build_query(array(
+        $url = "https://sukebei.nyaa.si/" . "?" . http_build_query(array(
             "page" => "rss",
             "c" => "0_0",
             "f" => "0",
